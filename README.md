@@ -5,5 +5,5 @@ My all certificate show in readme file.
 # First offer letter
 Prodigy infotech
 # Second cerificate
-Prodigy infosys
+Prodigy infotech
 Solitrate infosys
