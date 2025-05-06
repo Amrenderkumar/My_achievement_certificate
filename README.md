@@ -6,3 +6,4 @@ My all certificate show in readme file.
 Prodigy infosys
 # Second cerificate
 Prodigy infosys
+Solitrate infosys
