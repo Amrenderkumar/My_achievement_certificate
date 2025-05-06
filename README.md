@@ -3,7 +3,7 @@
 # Solitaire infosys 
 My all certificate show in readme file.
 # First offer letter
-Prodigy infosys
+Prodigy infotech
 # Second cerificate
 Prodigy infosys
 Solitrate infosys
