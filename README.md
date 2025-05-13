@@ -10,5 +10,5 @@ Prodigy infotech
 Prodigy infotech
 Solitrate infosys
   
-The ceritifcate show in the github.To be honest complete reactjs certificate go to any platform
+The ceritifcate show in the github.To be honest complete reactjs certificate go to any platform.
 
