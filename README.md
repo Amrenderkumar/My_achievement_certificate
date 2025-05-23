@@ -6,7 +6,7 @@ All Certificate
 My all certificate show in readme file.
 # First offer letter
 Prodigy infotech
-# Second cerificate  
+# Second cerificate   
 Prodigy infotech
 Solitrate infosys
   
